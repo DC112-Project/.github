@@ -7,6 +7,7 @@
 ## `Developers`
 - [Dan66ika77](github.com/Danika6677)
 - [SilkyFalcon](github.com/silkyfalcon)
+- [mochilla](github.com/mochilla-dev)
 
-## `Artist`
+## `Artist and Owner`
 - [Majozi](github.com/Highttie)
